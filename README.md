@@ -1,7 +1,5 @@
 Hey there! 👋
 
-I'm Chen, a Computer Science student at the University of Waterloo, diving headfirst into the exciting world of software development 🌐. My recent internship at Rogers was a thrilling ride, where I led a team to turbocharge application setup processes, achieving a whopping 95% efficiency boost 💪.
+I'm Chen, a Computer Science student at the University of Waterloo who is passionate about software development and building scalable, efficient applications. I've worked on projects like RecipeMaster, a Django web app for managing recipes, and have interned at Home Trust and Rogers Communications, where I developed web applications and optimized systems using technologies like Angular, ASP.NET, and AWS.
 
-Full-stack development is my playground, especially when it involves creating sleek web applications with React.js and Django 🚀. My GitHub is a colorful showcase of my coding adventures, featuring projects in Python, Java, and JavaScript 🎨.
-
-When I'm not immersed in code, you might find me exploring the latest tech trends or strategizing my next big project 🤔. I'm always on the lookout for collaboration and learning opportunities, so feel free to drop a message if you want to talk tech or team up on a project!
+When I'm not immersed in code, you might find me exploring the latest tech trends or picking up new sports! I'm always on the lookout for collaboration and learning opportunities, so feel free to drop a message if you want to talk tech or team up on a project!
